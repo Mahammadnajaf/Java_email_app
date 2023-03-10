@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d243aa0-7950-4c77-8587-7f06cd44b5af" name="Changes" comment="1st phase">
+    <list default="true" id="1d243aa0-7950-4c77-8587-7f06cd44b5af" name="Changes" comment="2st phase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/emailapp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailapp/Email.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/emailapp/EmailApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailapp/EmailApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,13 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678457653875</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2st phase">
+      <created>1678461327391</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678461327391</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10" />
     <MESSAGE value="14:37 time" />
     <MESSAGE value="1st phase" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st phase" />
+    <MESSAGE value="2st phase" />
+    <option name="LAST_COMMIT_MESSAGE" value="2st phase" />
   </component>
 </project>
