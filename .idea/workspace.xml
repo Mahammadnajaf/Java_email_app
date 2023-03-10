@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d243aa0-7950-4c77-8587-7f06cd44b5af" name="Changes" comment="14:37 time">
-      <change afterPath="$PROJECT_DIR$/src/emailapp/Email.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/emailapp/EmailApp.java" afterDir="false" />
+    <list default="true" id="1d243aa0-7950-4c77-8587-7f06cd44b5af" name="Changes" comment="1st phase">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Email.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Emailapp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/emailapp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailapp/Email.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,19 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f1986ff3-cab5-4b74-8393-a3664b5e2cd5" />
+        <option name="url" value="https://github.com/Mahammadnajaf/Java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -106,12 +116,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678455569414</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1st phase">
+      <created>1678457653875</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678457653875</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10" />
     <MESSAGE value="14:37 time" />
-    <option name="LAST_COMMIT_MESSAGE" value="14:37 time" />
+    <MESSAGE value="1st phase" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st phase" />
   </component>
 </project>
